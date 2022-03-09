@@ -1,3 +1,7 @@
+/*
+Author : Nick Lee
+*/
+
 #include <iostream>
 #include <stdlib.h>
 
