@@ -80,7 +80,7 @@ int main()
     
     travelList(pHead);
     
-    printf("\n");
+    printf("program end\n");
     system("pause");
     return 0;
 }
